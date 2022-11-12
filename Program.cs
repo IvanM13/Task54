@@ -47,6 +47,7 @@ void PrintArray(int[,] arr)
         }
         Console.WriteLine();
     }
+    Console.ReadKey();
 }
 
 void DecreasingElements(int[,] arr)
